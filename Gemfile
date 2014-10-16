@@ -9,8 +9,8 @@ gem 'mysql2'
 gem 'json'
 gem 'execjs'
 gem 'therubyracer'
-gem 'passenger'
-gem 'nginx'
+#gem 'passenger'
+#gem 'nginx'
 
 # Gems used only for assets and not required
 # in production environments by default.
