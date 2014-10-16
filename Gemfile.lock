@@ -221,6 +221,7 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   execjs
   jquery-rails
+  json
   mysql2
   nginx
   passenger
